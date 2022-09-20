@@ -9,7 +9,7 @@
 cat %USERPROFILE%\.ssh\id_rsa.pub
 ```
 You should see something like this:
-![[cmd_run.png]]
+![cmd_run](/ghubSSHSetupGuide/cmd_run.png)
 _It should look like this_
 3. Copy the output
 
