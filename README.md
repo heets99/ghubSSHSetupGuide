@@ -17,5 +17,5 @@ _It should look like this_
 1. Go to https://github.com/settings/ssh/new
 2. Give your key a name, be funky "WoodyBookRefree"
 3. Paste the previously copied key in"Key" Section
-![[add_key_ghub.png]]
+![adding key to github](/add_key_ghub.png)
 4. Click "Add SSH Key"
